@@ -68,4 +68,4 @@ for player in Player.players:
     print(player, player_total)
 print(f'Total fees: {total_fees}')
 
-exitInp = input(f'Exit? (yes / no): ')
+exitInp = input(f'Press enter to exit: ')
